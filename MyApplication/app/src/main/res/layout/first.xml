@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:orientation="vertical" android:layout_width="match_parent"
+    android:layout_height="match_parent">
+
+    <ImageView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:src="@drawable/onlinefoodordering"
+        android:layout_above="@+id/Bsuhere"
+        android:layout_alignLeft="@+id/Bsuhere"
+        android:layout_alignStart="@+id/Bsuhere"
+        android:layout_marginBottom="91dp" />
+
+
+
+    <Button
+        style="?android:attr/buttonStyleSmall"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Sign Up"
+        android:id="@+id/Bsuhere"
+        android:layout_marginLeft="72dp"
+        android:layout_marginStart="72dp"
+        android:layout_marginBottom="58dp"
+        android:clickable="false"
+        android:onClick="onSignupHereClick"
+        android:layout_alignParentBottom="true"
+        android:layout_alignParentLeft="true"
+        android:layout_alignParentStart="true" />
+
+    <Button
+        style="?android:attr/buttonStyleSmall"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Log In"
+        android:id="@+id/BloginFirst"
+        android:onClick="onLoginFirstClick"
+        android:layout_alignTop="@+id/Bsuhere"
+        android:layout_alignParentRight="true"
+        android:layout_alignParentEnd="true"
+        android:layout_marginRight="72dp"
+        android:layout_marginEnd="72dp" />
+
+</RelativeLayout>
