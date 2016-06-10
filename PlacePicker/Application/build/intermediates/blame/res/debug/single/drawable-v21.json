@@ -1,0 +1,22 @@
+[
+    {
+        "merged": "/Users/varun/Desktop/workshop/Android/android-play-places-master/PlacePicker/Application/build/intermediates/res/merged/debug/drawable-v21/card_action_bg_positive.xml",
+        "source": "/Users/varun/Desktop/workshop/Android/android-play-places-master/PlacePicker/Application/src/main/res/drawable-v21/card_action_bg_positive.xml"
+    },
+    {
+        "merged": "/Users/varun/Desktop/workshop/Android/android-play-places-master/PlacePicker/Application/build/intermediates/res/merged/debug/drawable-v21/card_action_bg.xml",
+        "source": "/Users/varun/Desktop/workshop/Android/android-play-places-master/PlacePicker/Application/src/main/res/drawable-v21/card_action_bg.xml"
+    },
+    {
+        "merged": "/Users/varun/Desktop/workshop/Android/android-play-places-master/PlacePicker/Application/build/intermediates/res/merged/debug/drawable-v21/abc_btn_colored_material.xml",
+        "source": "/Users/varun/Desktop/workshop/Android/android-play-places-master/PlacePicker/Application/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.0.0/res/drawable-v21/abc_btn_colored_material.xml"
+    },
+    {
+        "merged": "/Users/varun/Desktop/workshop/Android/android-play-places-master/PlacePicker/Application/build/intermediates/res/merged/debug/drawable-v21/abc_action_bar_item_background_material.xml",
+        "source": "/Users/varun/Desktop/workshop/Android/android-play-places-master/PlacePicker/Application/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.0.0/res/drawable-v21/abc_action_bar_item_background_material.xml"
+    },
+    {
+        "merged": "/Users/varun/Desktop/workshop/Android/android-play-places-master/PlacePicker/Application/build/intermediates/res/merged/debug/drawable-v21/card_action_bg_negative.xml",
+        "source": "/Users/varun/Desktop/workshop/Android/android-play-places-master/PlacePicker/Application/src/main/res/drawable-v21/card_action_bg_negative.xml"
+    }
+]
