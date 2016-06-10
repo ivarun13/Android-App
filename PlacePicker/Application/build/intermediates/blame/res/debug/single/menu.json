@@ -1,0 +1,14 @@
+[
+    {
+        "merged": "/Users/Bhavik/Downloads/Android-App-VarunA/PlacePicker/Application/build/intermediates/res/merged/debug/menu/menu_final.xml",
+        "source": "/Users/Bhavik/Downloads/Android-App-VarunA/PlacePicker/Application/src/main/res/menu/menu_final.xml"
+    },
+    {
+        "merged": "/Users/Bhavik/Downloads/Android-App-VarunA/PlacePicker/Application/build/intermediates/res/merged/debug/menu/menu_review.xml",
+        "source": "/Users/Bhavik/Downloads/Android-App-VarunA/PlacePicker/Application/src/main/res/menu/menu_review.xml"
+    },
+    {
+        "merged": "/Users/Bhavik/Downloads/Android-App-VarunA/PlacePicker/Application/build/intermediates/res/merged/debug/menu/menu_detail.xml",
+        "source": "/Users/Bhavik/Downloads/Android-App-VarunA/PlacePicker/Application/src/main/res/menu/menu_detail.xml"
+    }
+]

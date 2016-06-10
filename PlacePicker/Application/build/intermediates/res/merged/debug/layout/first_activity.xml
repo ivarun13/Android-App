@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:orientation="vertical" android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@android:color/white">
+
+    <ImageView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:src="@drawable/onlinefoodordering"
+        android:layout_above="@+id/Bsuhere"
+        android:layout_alignLeft="@+id/Bsuhere"
+        android:layout_alignStart="@+id/Bsuhere"
+        android:layout_marginBottom="91dp" />
+
+
+
+    <Button
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Sign Up"
+        android:id="@+id/Bsuhere"
+        android:layout_marginLeft="72dp"
+        android:layout_marginStart="72dp"
+        android:layout_marginBottom="58dp"
+        android:clickable="true"
+        android:onClick="onSignupHereClick"
+        android:layout_alignParentBottom="true"
+        android:layout_alignParentLeft="true"
+        android:layout_alignParentStart="true"
+        style="?android:attr/borderlessButtonStyle"
+        android:textColor="@android:color/holo_blue_dark"
+        android:textStyle="bold"
+        android:typeface="serif"
+        android:textSize="18sp"/>
+
+    <Button
+        style="?android:attr/borderlessButtonStyle"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Log In"
+        android:textColor="@android:color/holo_blue_dark"
+        android:id="@+id/BloginFirst"
+        android:onClick="onLoginFirstClick"
+        android:layout_alignTop="@+id/Bsuhere"
+        android:layout_alignParentRight="true"
+        android:layout_alignParentEnd="true"
+        android:layout_marginRight="72dp"
+        android:layout_marginEnd="72dp"
+        android:textStyle="bold"
+        android:typeface="serif"
+        android:textSize="18sp"/>
+
+</RelativeLayout>
